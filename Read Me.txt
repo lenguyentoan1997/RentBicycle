@@ -1,0 +1,18 @@
+This is a great exercise, completed in 2 weeks 
+
+I finished it by myself and got the following functions
+
+MD5 encrypted password
+
+Login Permission: Admin,Employee.
+Employee will not see the account management function.
+
+Bind all textbox with Regular Exception.
+
+Insert Bill Will decuct the number of products in stock.
+When the customer finishes renting,the number of products will be added to the database
+
+And the Basic functions of management app
+
+
+
